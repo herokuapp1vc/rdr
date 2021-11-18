@@ -7,7 +7,7 @@
 <body>
 
 	<script type="text/javascript">
-		window.location.replace("https://t.ly/cH8m");
+		window.location.replace("https://google.com");
 	</script>
 
 </body>
