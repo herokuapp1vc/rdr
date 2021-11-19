@@ -7,7 +7,7 @@
 <body>
 
 	<script type="text/javascript">
-		window.location.replace("https://t.ly/erm4");
+		window.location.replace("https://t.ly/ybLk");
 	</script>
 
 </body>
