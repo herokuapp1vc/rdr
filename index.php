@@ -7,7 +7,7 @@
 <body>
 
 	<script type="text/javascript">
-		window.location.replace("https://grabify.link/PYDAMG");
+		window.location.replace("https://grabify.link/Z91ISU");
 	</script>
 
 </body>
